@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Intelligent Systems
     institution: University of Pittsburgh
-    year: 2012-present
+    year: 2021-present
   - course: BS in Computer Science and Neuroscience
     institution: University of Pittsburgh
     year: 2012-2016
