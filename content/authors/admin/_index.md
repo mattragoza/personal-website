@@ -14,12 +14,12 @@ organizations:
   url: https://www.pitt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in improving deep learning models by incorporating physical constraints.
+bio: PhD student, Intelligent Systems Program, University of Pittsburgh. I am interested in enabling deep learning to augment science. 
 
 # Interests to show in About widget
 interests:
 - Deep Learning
-- Medical Vision
+- Medical Computer Vision
 - Drug Discovery
 
 # Education to show in About widget
@@ -65,7 +65,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Matt Ragoza is a 1st year PhD student in the Intelligent Systems Program at the University of Pittsburgh School of Computing and Information. His research interests revolve around improving deep learning models by incorporating knowledge and constraints from the natural sciences. He is advised by Dr. Kayhan Batmanghelich.
+I am a 1st year PhD student in the Intelligent Systems Program at the University of Pittsburgh School of Computing and Information, where I am advised by Dr. Kayhan Batmanghelich. I am interested in developing methods that enable artificial intelligence to augment the scientific process, both in basic research and important practical applications like drug discovery and medicine. My current approach is to improve the generalizability and interpretability of deep learning models by incorporating prior knowledge and constraints from the natural sciences.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-matthew-ragoza.pdf" "newtab" >}}CV{{< /staticref >}}.
